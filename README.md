@@ -14,7 +14,7 @@ Making India ready for the decade of autonomy
 - Make sure the user’s vehicle maintains safe distance from others.
 - Log the scores.
 
-![Workflow](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/workflow.jpeg?raw=true)
+![Workflow](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/workflow.jpeg?raw=true)
 
 
 ## Tech
@@ -53,31 +53,31 @@ npx react-native run-android
 -Basic login and signup for entry using firebase authentication
 
 
--![Login](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/login.png?raw=true) -![SignUp](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/signup.png?raw=true)
+-![Login](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/login.png?raw=true) -![SignUp](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/signup.png?raw=true)
 
 
 -Dashboard to start a new drive and calculate score
 
 
--![Dashboard](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/dashboard.png?raw=true)
+-![Dashboard](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/dashboard.png?raw=true)
 
 
 -Logs to view previous drives scores
 
 
--![Logs](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/logs2.png?raw=true)
+-![Logs](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/logs2.png?raw=true)
 
 
 -Profile to update personal details
 
 
--![Profile](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/profile.png?raw=true)
+-![Profile](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/profile.png?raw=true)
 
 
 -View RealTime updates and scores
 
 
--![realtime](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/realtime.png?raw=true) -![score](https://github.com/DevilAeron/SmartDrivingTrainer/blob/main/Themes/score.png?raw=true)
+-![realtime](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/realtime.png?raw=true) -![score](https://github.com/yashmittal-ym/SDT/blob/Main/Themes/score.png?raw=true)
 
 ## License
 
