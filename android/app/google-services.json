@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845968614069",
+    "firebase_url": "https://temp-fcdf5-default-rtdb.firebaseio.com",
+    "project_id": "temp-fcdf5",
+    "storage_bucket": "temp-fcdf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845968614069:android:539e4c961334f79e1c94fc",
+        "android_client_info": {
+          "package_name": "com.sdt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845968614069-59c43nn936ssjftpu4vovmaen3hqeamm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgd2Z8G16PCFFxxv2mE6zUMuc7annA_QA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845968614069-59c43nn936ssjftpu4vovmaen3hqeamm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
