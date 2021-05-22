@@ -1,0 +1,10 @@
+npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install @react-navigation/native @react-navigation/stack
+npm i react-native-vector-icons
+npm install @react-navigation/material-bottom-tabs react-native-paper --force
+npm i react-native-webview
+npm i moment
+npm install firebase
+npm i react-native-image-crop-picker --save
+npm install @react-native-firebase/storage
+npm install --save @react-native-firebase/app
